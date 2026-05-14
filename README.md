@@ -7,6 +7,7 @@ Sou estudante de **Ciência da Computação** no **CEFET/RJ** (Centro Federal de
 
 ### 2. No que estou trabalhando no momento?
 Atualmente, estou focado no desenvolvimento do **compt**, um projeto acadêmico voltado para a criação de um site destinado à distribuição de cursos especializados. O objetivo da plataforma é ensinar habilidades práticas, estratégias e mecânicas para diversos jogos online competitivos, como *Counter-Strike (CS)* e *Tom Clancy's Rainbow Six Siege*.
+**Portfólio Pessoal (Projeto Pessoal):** Criação e desenvolvimento do meu próprio site de portfólio, utilizando para centralizar meus projetos, demonstrar minhas habilidades técnicas e registrar minha evolução acadêmica e profissional.
 
 ---
 
